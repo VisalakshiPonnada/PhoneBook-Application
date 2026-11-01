@@ -119,7 +119,7 @@ The project is implemented using multiple source files, user-defined functions, 
 | Ubuntu / Linux | Development and execution environment |
 | GCC | Compiles C source files |
 | GNU Make | Automates compilation |
-| Nano / Vim | Source code editing |
+| Vi | Source code editing |
 | Terminal | Application execution and testing |
 
 ## 📂 Repository Structure
